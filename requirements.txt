@@ -1,0 +1,21 @@
+Python 3.7.1 - https://www.python.org/
+
+Pandas - https://pandas.pydata.org/
+
+MatplotLib - https://matplotlib.org/
+
+Jupter Notebook - https://jupyter.org/
+
+Instale o Python e instale o PIP Install para realizar o download das bibliotecas:
+
+Tutorial https://www.liquidweb.com/kb/install-pip-windows/
+
+Após o tutorial, no windows, abra o CMD e rode os comandos:
+
+pip install pandas
+
+pip install jupyternotebook
+
+pip install matplotlib
+
+python -m pip install --upgrade pip
